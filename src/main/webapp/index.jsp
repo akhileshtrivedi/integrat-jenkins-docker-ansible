@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">Deployed Dockerfile using Jenkins and Ansible!! -2</h2>
+<h2 stype="colour:red">Deployed Dockerfile using Jenkins and Ansible!! </h2>
 </body>
 </html>
